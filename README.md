@@ -32,7 +32,7 @@ Run command `python main.py` on Anaconda Prompt
 
 The folder named "images" will contain the images which you will upload/import.
 
-HACKERS - Ruchi Singh, Shivam Gupta, Harshita Rastogi
+Code HACKERS - Shivam Gupta, Ruchi Singh, Harshita Rastogi
 
 ## Tech Stack:
 Google Cloud Vision API,
