@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<title>Detected text analysis</title>
+<head>
+		<style>
+body {
+  background-color: black;
+}
+h1 {
+  color: Yellow;
+  text-align: left;
+}
+p {
+  font-family: verdana;
+  font-size: 25px;
+}
+</style>
+</head>
+<h1 align="center" style = "text-align: : center;"> Detected Text Analysis</h1>
+<body>
+	<div>
+		<p> <font color= "white"> {% for i in result %}
+			{{i}}<br>
+			{% endfor %}
+		</font>
+		</p>
+	</div>
+</body>
+</html>
